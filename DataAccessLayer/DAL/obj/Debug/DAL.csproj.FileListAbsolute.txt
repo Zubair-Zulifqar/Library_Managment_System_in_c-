@@ -1,0 +1,17 @@
+E:\Dev-Cpp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Dev-Cpp\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+E:\Dev-Cpp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Dev-Cpp\DAL\bin\Debug\DAL.exe.config
+E:\Dev-Cpp\DAL\bin\Debug\DAL.exe
+E:\Dev-Cpp\DAL\bin\Debug\DAL.pdb
+E:\Dev-Cpp\DAL\bin\Debug\BookObject.exe
+E:\Dev-Cpp\DAL\bin\Debug\BorowerObject.exe
+E:\Dev-Cpp\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Dev-Cpp\DAL\bin\Debug\BookObject.pdb
+E:\Dev-Cpp\DAL\bin\Debug\BookObject.exe.config
+E:\Dev-Cpp\DAL\bin\Debug\BorowerObject.pdb
+E:\Dev-Cpp\DAL\bin\Debug\BorowerObject.exe.config
+E:\Dev-Cpp\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Dev-Cpp\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Dev-Cpp\DAL\obj\Debug\DAL.exe
+E:\Dev-Cpp\DAL\obj\Debug\DAL.pdb
