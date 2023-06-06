@@ -1,0 +1,8 @@
+E:\Dev-Cpp\BorowerObject\obj\Debug\BorowerObject.csproj.AssemblyReference.cache
+E:\Dev-Cpp\BorowerObject\obj\Debug\BorowerObject.csproj.SuggestedBindingRedirects.cache
+E:\Dev-Cpp\BorowerObject\obj\Debug\BorowerObject.csproj.CoreCompileInputs.cache
+E:\Dev-Cpp\BorowerObject\bin\Debug\BorowerObject.exe.config
+E:\Dev-Cpp\BorowerObject\bin\Debug\BorowerObject.exe
+E:\Dev-Cpp\BorowerObject\bin\Debug\BorowerObject.pdb
+E:\Dev-Cpp\BorowerObject\obj\Debug\BorowerObject.exe
+E:\Dev-Cpp\BorowerObject\obj\Debug\BorowerObject.pdb
