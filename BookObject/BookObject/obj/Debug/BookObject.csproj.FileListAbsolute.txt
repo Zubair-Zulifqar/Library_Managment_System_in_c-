@@ -1,0 +1,8 @@
+E:\Dev-Cpp\BookObject\obj\Debug\BookObject.csproj.AssemblyReference.cache
+E:\Dev-Cpp\BookObject\obj\Debug\BookObject.csproj.SuggestedBindingRedirects.cache
+E:\Dev-Cpp\BookObject\obj\Debug\BookObject.csproj.CoreCompileInputs.cache
+E:\Dev-Cpp\BookObject\bin\Debug\BookObject.exe.config
+E:\Dev-Cpp\BookObject\bin\Debug\BookObject.exe
+E:\Dev-Cpp\BookObject\bin\Debug\BookObject.pdb
+E:\Dev-Cpp\BookObject\obj\Debug\BookObject.exe
+E:\Dev-Cpp\BookObject\obj\Debug\BookObject.pdb
